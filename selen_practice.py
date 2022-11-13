@@ -182,7 +182,4 @@ def s8(url):
         print(answer_value)
 
 
-
-
 s8(url8)
-
